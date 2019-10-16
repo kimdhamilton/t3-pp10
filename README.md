@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+## Welcome T3 Innovation Network Pilot Project 10: Empowering The American Student & Worker
 
-You can use the [editor on GitHub](https://github.com/kimdhamilton/t3-pp10/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+T3 is exploring the emerging technologies and standards in the talent marketplace to better align student, workforce, and credentialing data with the needs of the new economy.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Read our [Charter Draft](https://docs.google.com/document/d/1hpJ5d_aocJHEA-nnfQHJ_CXiE8ttYDlFnBXtZAdM_Jo/edit#heading=h.flzbbngbb4et).
 
-### Markdown
+### Join us
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Webinars
+We meet on the first Tuesday of every month (through Feb 4) at 11am PT/2pm ET.
 
-```markdown
-Syntax highlighted code block
+Join Zoom Meeting: 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+[https://brighthive.zoom.us/j/958301987](https://brighthive.zoom.us/j/958301987)
 ```
+One tap mobile
++19292056099,,958301987# US (New York)
++16699006833,,958301987# US (San Jose)
+Dial by your location
+        +1 929 205 6099 US (New York)
+        +1 669 900 6833 US (San Jose)
+Meeting ID: 958 301 987
+```
+Find your local number: [https://zoom.us/u/adrqfreMQZ ](https://zoom.us/u/adrqfreMQZ )
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### Slack
 
-### Jekyll Themes
+Slack channel: https://app.slack.com/client/TA34Q7XU2/CMHBEFMPU
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kimdhamilton/t3-pp10/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Resources
+ 
+PP10 Google Drive Folder: https://drive.google.com/open?id=1nZWcVvuQkgPsVPEXgeWZYXiK8DpB8GtF
+ 
+ 
+Kickoff Meeting:
+- Drive Folder: https://drive.google.com/open?id=1JZdoMmQzDj_6ofHdE-VNwEa7prdZH1od
+- Webinar Slides: https://drive.google.com/open?id=1G_hZ4UJ1MZgC4I9c9gAIgwnqhCfXwAonaEDYoiMHEuQ
+- Webinar Recording: https://brighthive.zoom.us/recording/share/XTGd0SwLXFw84-5pj85anyF9LTEP3PcSgACNRmv1eISwIumekTziMw   
