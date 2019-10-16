@@ -1,4 +1,4 @@
-## Welcome T3 Innovation Network Pilot Project 10: Empowering The American Student & Worker
+## Welcome T3 Innovation Network Pilot Project 10
 
 T3 is exploring the emerging technologies and standards in the talent marketplace to better align student, workforce, and credentialing data with the needs of the new economy.
 
@@ -25,14 +25,14 @@ Find your local number: [https://zoom.us/u/adrqfreMQZ ](https://zoom.us/u/adrqfr
 
 #### Slack
 
-Slack channel: https://app.slack.com/client/TA34Q7XU2/CMHBEFMPU
+[Slack channel](https://app.slack.com/client/TA34Q7XU2/CMHBEFMPU)
 
 ### Resources
  
-PP10 Google Drive Folder: https://drive.google.com/open?id=1nZWcVvuQkgPsVPEXgeWZYXiK8DpB8GtF
+[PP10 Google Drive Folder](https://drive.google.com/open?id=1nZWcVvuQkgPsVPEXgeWZYXiK8DpB8Gt)
  
  
 Kickoff Meeting:
-- Drive Folder: https://drive.google.com/open?id=1JZdoMmQzDj_6ofHdE-VNwEa7prdZH1od
-- Webinar Slides: https://drive.google.com/open?id=1G_hZ4UJ1MZgC4I9c9gAIgwnqhCfXwAonaEDYoiMHEuQ
-- Webinar Recording: https://brighthive.zoom.us/recording/share/XTGd0SwLXFw84-5pj85anyF9LTEP3PcSgACNRmv1eISwIumekTziMw   
+- [Webinar Slides](https://drive.google.com/open?id=1G_hZ4UJ1MZgC4I9c9gAIgwnqhCfXwAonaEDYoiMHEuQ)
+- [Webinar Recording](https://brighthive.zoom.us/recording/share/XTGd0SwLXFw84-5pj85anyF9LTEP3PcSgACNRmv1eISwIumekTziMw) 
+- [Webinar Drive Folder](https://drive.google.com/open?id=1JZdoMmQzDj_6ofHdE-VNwEa7prdZH1od)
